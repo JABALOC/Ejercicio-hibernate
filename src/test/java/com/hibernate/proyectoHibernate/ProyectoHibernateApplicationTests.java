@@ -1,0 +1,13 @@
+package com.hibernate.proyectoHibernate;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ProyectoHibernateApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
